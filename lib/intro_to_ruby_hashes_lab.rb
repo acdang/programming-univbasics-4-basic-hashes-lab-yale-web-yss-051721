@@ -4,7 +4,8 @@ end
 
 def my_hash
   hash = {
-    drink: "orange juice"
+    drink: "orange juice",
+    snack: "potato chips"
   }
 end
 
